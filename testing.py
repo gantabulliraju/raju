@@ -3,3 +3,8 @@ print(a)
 
 b= ['Hellow']
 print(b)
+
+this is changed data
+
+c=[1,2,3]
+print(c)
